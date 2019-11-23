@@ -20,7 +20,7 @@ It is a one-page site for a Hosting company created by me from a PSD wich I foun
 - CSS3
 - jQuery
 - JS
-- Lib OwlCarusel & Scroll2id
+- Libs OwlCarusel & Scroll2id
 
 
 
