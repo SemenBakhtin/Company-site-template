@@ -12,7 +12,7 @@ It is a one-page site for a Hosting company created by me from a PSD wich I foun
 
 - cards for offers
 
-- smooth hover effects for links
+- smooth hover effects for links and scroll
 
 ## Technologies I used
 
@@ -20,7 +20,7 @@ It is a one-page site for a Hosting company created by me from a PSD wich I foun
 - CSS3
 - jQuery
 - JS
-- Lib OwlCarusel
+- Lib OwlCarusel & Scroll2id
 
 
 
